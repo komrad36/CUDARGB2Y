@@ -13,6 +13,8 @@
 // Roughly 5x to 30x faster than OpenCV's implementation,
 // depending on your card.
 //
+// Converts an RGB color image to grayscale.
+//
 // You can use equal weighting by calling the templated
 // function with weight set to 'false', or you
 // can specify custom weights in CUDARGB2Y.h.
