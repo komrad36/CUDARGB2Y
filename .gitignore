@@ -1,0 +1,8 @@
+*
+!.gitignore
+!CUDARGB2Y.h
+!CUDARGB2Y.cu
+!Makefile
+!test.jpg
+!main.cpp
+!README.md
